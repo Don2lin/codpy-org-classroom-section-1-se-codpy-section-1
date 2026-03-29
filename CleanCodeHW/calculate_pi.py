@@ -3,7 +3,7 @@ import random
 # Constant settings
 RADIUS = 1
 NUM_POINTS = 1000000
-AREA_FACTOR = 4
+AREA_FACTOR = 2 * 2
 SQUARE_EXPONENT = 2
 POINT_COUNT_INCREMENT = 1
 
