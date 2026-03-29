@@ -1,6 +1,6 @@
 services:
-  web:
+  sever:
     build:
       context: .
-    port:
+    ports:
       - 5000:5000
