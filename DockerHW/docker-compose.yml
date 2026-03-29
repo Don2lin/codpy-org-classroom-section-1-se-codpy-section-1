@@ -1,6 +1,6 @@
 services:
   web:
     build:
-      context: .
+      context: ./web
     ports:
       - 5000:5000
